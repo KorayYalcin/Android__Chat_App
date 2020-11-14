@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301933958573",
+    "firebase_url": "https://proje-90851.firebaseio.com",
+    "project_id": "proje-90851",
+    "storage_bucket": "proje-90851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301933958573:android:7639389dbd1fc985",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301933958573-e6ndpo29odd28jp5hc09nv3r0qgslddc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.proje",
+            "certificate_hash": "ce565483bfe2a3cb216733e5482feac1aa97dfde"
+          }
+        },
+        {
+          "client_id": "301933958573-clpcna9agd26a2osjn254jmihcbg0igd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TYB7y1_nKSgj3SHefQfGrmQku56xW-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301933958573-clpcna9agd26a2osjn254jmihcbg0igd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

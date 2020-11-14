@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">proje</string>
+    <string name="new_account">New account</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="hint">hint</string>
+    <string name="name">name</string>
+    <string name="button">Button</string>
+    <string name="emaill">email</string>
+    <string name="passwordd">password</string>
+    <string name="namee">Name</string>
+    <string name="logout">LogOut</string>
+    <string name="emailll">Email</string>
+    <string name="passworddd">Password</string>
+</resources>
